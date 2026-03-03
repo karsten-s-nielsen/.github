@@ -2,9 +2,17 @@
 
 Open-source projects for AI-powered developer tooling and soccer coaching analytics, maintained by [@karstenskyt](https://github.com/karstenskyt).
 
+---
+
 ## Mad Scientist Skills
 
+<a href="https://github.com/karsten-s-nielsen/mad-scientist-skills">
+  <img src="https://raw.githubusercontent.com/karsten-s-nielsen/mad-scientist-skills/main/assets/mad-scientist.jpg" alt="Mad Scientist Skills" width="150" align="right">
+</a>
+
 [mad-scientist-skills](https://github.com/karsten-s-nielsen/mad-scientist-skills) — Claude Code skills for C4 architecture diagrams, security audits, and pre-commit quality gates.
+
+<br clear="right">
 
 ## OSTI — Open Standard for Training Interoperability
 
