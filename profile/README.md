@@ -10,7 +10,17 @@ Open-source projects for AI-powered developer tooling and soccer coaching analyt
   <img src="https://raw.githubusercontent.com/karsten-s-nielsen/mad-scientist-skills/main/assets/mad-scientist.jpg" alt="Mad Scientist Skills" width="150" align="right">
 </a>
 
-[mad-scientist-skills](https://github.com/karsten-s-nielsen/mad-scientist-skills) — Claude Code skills for C4 architecture diagrams, security audits, and pre-commit quality gates.
+[mad-scientist-skills](https://github.com/karsten-s-nielsen/mad-scientist-skills) — Claude Code plugin — 8 skills for architecture, security, observability, optimization, documentation, cognitive UX, and C4 diagramming.
+
+<br clear="right">
+
+## Silly Kicks
+
+<a href="https://github.com/karsten-s-nielsen/silly-kicks">
+  <img src="https://raw.githubusercontent.com/karsten-s-nielsen/silly-kicks/main/assets/silly-kicks.jpg" alt="Silly Kicks" width="150" align="right">
+</a>
+
+[silly-kicks](https://github.com/karsten-s-nielsen/silly-kicks) — Maintained fork of socceraction — SPADL event conversion + VAEP action valuation for soccer analytics.
 
 <br clear="right">
 
