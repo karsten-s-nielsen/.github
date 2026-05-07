@@ -14,6 +14,16 @@ Open-source projects for AI-powered developer tooling and soccer coaching analyt
 
 <br clear="right">
 
+## Pining For The Data
+
+<a href="https://github.com/karsten-s-nielsen/pining-for-the-data">
+  <img src="https://raw.githubusercontent.com/karsten-s-nielsen/pining-for-the-data/main/assets/pining-for-the-data.jpg" alt="Pining For The Data" width="150" align="right">
+</a>
+
+[pining-for-the-data](https://github.com/karsten-s-nielsen/pining-for-the-data) — Open-source soccer tracking data in SkillCorner V3 format — validation, de-identification, and mock provider API.
+
+<br clear="right">
+
 ## Silly Kicks
 
 <a href="https://github.com/karsten-s-nielsen/silly-kicks">
