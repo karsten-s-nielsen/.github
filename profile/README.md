@@ -4,6 +4,16 @@ Open-source projects for AI-powered developer tooling and soccer coaching analyt
 
 ---
 
+## (Right! Luxury!) Lakehouse
+
+<a href="https://github.com/karsten-s-nielsen/luxury-lakehouse">
+  <img src="https://raw.githubusercontent.com/karsten-s-nielsen/luxury-lakehouse/main/assets/luxury-lakehouse.jpg" alt="(Right! Luxury!) Lakehouse" width="150" align="right">
+</a>
+
+[luxury-lakehouse](https://github.com/karsten-s-nielsen/luxury-lakehouse) — A serverless soccer analytics platform built on Databricks Lakebase — replacing a 6-service traditional AWS pipeline with a unified lakehouse architecture that scales to zero.
+
+<br clear="right">
+
 ## Mad Scientist Skills
 
 <a href="https://github.com/karsten-s-nielsen/mad-scientist-skills">
@@ -24,10 +34,10 @@ Open-source projects for AI-powered developer tooling and soccer coaching analyt
 
 <br clear="right">
 
-## Silly Kicks
+## (Ministry of) Silly Kicks
 
 <a href="https://github.com/karsten-s-nielsen/silly-kicks">
-  <img src="https://raw.githubusercontent.com/karsten-s-nielsen/silly-kicks/main/assets/silly-kicks.jpg" alt="Silly Kicks" width="150" align="right">
+  <img src="https://raw.githubusercontent.com/karsten-s-nielsen/silly-kicks/main/assets/silly-kicks.jpg" alt="(Ministry of) Silly Kicks" width="150" align="right">
 </a>
 
 [silly-kicks](https://github.com/karsten-s-nielsen/silly-kicks) — Maintained fork of socceraction — SPADL event conversion + VAEP action valuation for soccer analytics.
