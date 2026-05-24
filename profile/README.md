@@ -30,7 +30,7 @@ Open-source projects for AI-powered developer tooling and soccer coaching analyt
   <img src="https://raw.githubusercontent.com/karsten-s-nielsen/pining-for-the-data/main/assets/pining-for-the-data.jpg" alt="Pining For The Data" width="150" align="right">
 </a>
 
-[pining-for-the-data](https://github.com/karsten-s-nielsen/pining-for-the-data) — Open-source soccer tracking data in SkillCorner V3 format — validation, de-identification, and mock provider API.
+[pining-for-the-data](https://github.com/karsten-s-nielsen/pining-for-the-data) — Open-source soccer tracking data — redistribution, validation, and mock provider API.
 
 <br clear="right">
 
@@ -40,7 +40,7 @@ Open-source projects for AI-powered developer tooling and soccer coaching analyt
   <img src="https://raw.githubusercontent.com/karsten-s-nielsen/silly-kicks/main/assets/silly-kicks.jpg" alt="(Ministry of) Silly Kicks" width="150" align="right">
 </a>
 
-[silly-kicks](https://github.com/karsten-s-nielsen/silly-kicks) — Maintained fork of socceraction — SPADL event conversion + VAEP action valuation for soccer analytics.
+[silly-kicks](https://github.com/karsten-s-nielsen/silly-kicks) — Soccer analytics library — multi-provider SPADL + tracking conversion, VAEP/xT valuation, and spatial features (pitch control, cover shadows, player influence).
 
 <br clear="right">
 
