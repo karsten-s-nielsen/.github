@@ -14,6 +14,16 @@ Open-source projects for AI-powered developer tooling and soccer coaching analyt
 
 <br clear="right">
 
+## (Ministry of) Silly Kicks
+
+<a href="https://github.com/karsten-s-nielsen/silly-kicks">
+  <img src="https://raw.githubusercontent.com/karsten-s-nielsen/silly-kicks/main/assets/silly-kicks.jpg" alt="(Ministry of) Silly Kicks" width="150" align="right">
+</a>
+
+[silly-kicks](https://github.com/karsten-s-nielsen/silly-kicks) — Soccer analytics library — multi-provider SPADL + tracking conversion, VAEP/xT valuation, and spatial features (pitch control, cover shadows, player influence).
+
+<br clear="right">
+
 ## Mad Scientist Skills
 
 <a href="https://github.com/karsten-s-nielsen/mad-scientist-skills">
@@ -34,13 +44,13 @@ Open-source projects for AI-powered developer tooling and soccer coaching analyt
 
 <br clear="right">
 
-## (Ministry of) Silly Kicks
+## Ruthless Efficiency
 
-<a href="https://github.com/karsten-s-nielsen/silly-kicks">
-  <img src="https://raw.githubusercontent.com/karsten-s-nielsen/silly-kicks/main/assets/silly-kicks.jpg" alt="(Ministry of) Silly Kicks" width="150" align="right">
+<a href="https://github.com/karsten-s-nielsen/ruthless-efficiency">
+  <img src="https://raw.githubusercontent.com/karsten-s-nielsen/ruthless-efficiency/main/assets/ruthless-efficiency.jpg" alt="Ruthless Efficiency" width="150" align="right">
 </a>
 
-[silly-kicks](https://github.com/karsten-s-nielsen/silly-kicks) — Soccer analytics library — multi-provider SPADL + tracking conversion, VAEP/xT valuation, and spatial features (pitch control, cover shadows, player influence).
+[ruthless-efficiency](https://github.com/karsten-s-nielsen/ruthless-efficiency) — A general optimisation/search substrate: a pure hexagonal core + pluggable search strategies + pluggable compute backends.
 
 <br clear="right">
 
